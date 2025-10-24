@@ -1,0 +1,2 @@
+# Prevendo_multiplos_indicadores_macroeconomicos_com_regressao_multitarget
+Prevendo múltiplos indicadores macroeconomicos com regressão multi target
